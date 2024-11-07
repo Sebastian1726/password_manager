@@ -1,0 +1,21 @@
+# Entorno virtual
+venv/
+ENV/
+env/
+
+# Archivos compilados
+__pycache__/
+*.pyc
+
+# Claves y secretos
+secret.key
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Base de datos
+password_manager.db
+
+# Logs
+*.log

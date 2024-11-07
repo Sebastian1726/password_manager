@@ -1,0 +1,4 @@
+SQLAlchemy>=1.4
+cryptography>=3.4
+bcrypt>=3.2
+pytest>=6.0
